@@ -1,5 +1,7 @@
 # Code Institute - Walkthrough Project 1 - Malaria Detection 
 
+* Live Project Deployment: https://ci-malaria-detection-20f8275d9bfc.herokuapp.com/
+
 ## Dataset Content
 
 The dataset contains 5643 images taken from a blood smear workflow (where a drop of blood is placed on a glass slide). The cells are either malaria-parasitised or uninfected.
